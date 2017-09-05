@@ -1,6 +1,6 @@
 name="Elite Kustom Config"
 version="12.4"
-url="https://www.dropbox.com/preview/EKC%2B12%2BTEST.zip?role=personal"
+url="https://archive.org/download/Archive_20160220/Archive.zip"
 gui="http://"
 kodi="17.1"
 theme="http://"
