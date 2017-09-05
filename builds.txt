@@ -1,6 +1,6 @@
 name="Elite Kustom Config"
 version="12.4"
-url="https://archive.org/download/Archive_20160220/Archive.zip"
+url="https://archive.org/download/Archive_20160220/rchive.zip"
 gui="http://"
 kodi="17.1"
 theme="http://"
