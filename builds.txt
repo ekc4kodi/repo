@@ -1,6 +1,6 @@
 name="Elite Kustom Config"
 version="1.0"
-url="https://archive.org/download/Archive_20160220/Archive.zip"
+url="http://ask-keith.club/eckbuilds/Archive.zip"
 gui="http://"
 kodi="17.1"
 theme="http://"
