@@ -1,6 +1,6 @@
 name="AceStream Engine"
 section="no"
-url="http://"
+url="https://www.dropbox.com/s/e9s3tqjr7awmu4e/ace-stream-media-3-1-19-1.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
