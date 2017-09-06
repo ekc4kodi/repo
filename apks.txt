@@ -1,6 +1,6 @@
 name="AceStream Engine"
 section="no"
-url="http://ace-stream-media.en.uptodown.com/android/download"
+url="http://"
 icon="http://" 
 fanart="http://"
 adult="No"
