@@ -1,9 +1,9 @@
 d2
 |||
-[B][COLOR gold] Thank you everyone for your continued support. 
-NFL streams have been placed under the sports section and they seem to be very good streams. 
-Anything that is acestream seems to be the best. You do need to install acestream first though. 
-To do this click down from maintenance and select acestream and follow all the prompts. 
-Once it is installed and opened to the sign in screen, there is no sign in. 
-Back click back into Kodi and all of the ace links will work. Enjoy :-)                                                      
-To adjust your screen to the proper size, click on maintenance - interface settings - and adjust the zoom accordingly. [/COLOR][/B]
+[B][COLOR gold] Thank you everyone for your continued support. [/COLOR][/B]
+[B][COLOR gold]NFL streams have been placed under the sports section and they seem to be very good streams. [/COLOR][/B]
+[B][COLOR gold]Anything that is acestream seems to be the best. You do need to install acestream first though. [/COLOR][/B]
+[B][COLOR gold]To do this click down from maintenance and select acestream and follow all the prompts. [/COLOR][/B]
+[B][COLOR gold]Once it is installed and opened to the sign in screen, there is no sign in. [/COLOR][/B]
+[B][COLOR gold]Back click back into Kodi and all of the ace links will work. Enjoy :-)  [/COLOR][/B]                                                    
+[B][COLOR gold]To adjust your screen to the proper size, click on maintenance - interface settings - and adjust the zoom accordingly. [/COLOR][/B]
