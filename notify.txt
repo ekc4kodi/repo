@@ -5,4 +5,5 @@ NFL streams have been placed under the sports section and they seem to be very g
 Anything that is acestream seems to be the best. You do need to install acestream first though. 
 To do this click down from maintenance and select acestream and follow all the prompts. 
 Once it is installed and opened to the sign in screen, there is no sign in. 
-Back click back into Kodi and all of the ace links will work. Enjoy :-) [/COLOR][/B]
+Back click back into Kodi and all of the ace links will work. Enjoy :-)                                                      
+To adjust your screen to the proper size, click on maintenance - interface settings - and adjust the zoom accordingly. [/COLOR][/B]
