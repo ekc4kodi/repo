@@ -1,5 +1,5 @@
 name="Elite Kustom Config"
-version="13"
+version="13.0.1"
 url="https://www.dropbox.com/s/jldqml9bg9068o9/EKC13.0.1.zip?dl=1"
 gui="http://"
 kodi="17.1"
