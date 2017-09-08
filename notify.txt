@@ -8,3 +8,6 @@ d2
 [B][COLOR gold]Once it is installed and opened to the sign in screen, there is no sign in. [/COLOR][/B]
 [B][COLOR white]Back click back into Kodi and all of the ace links will work. Enjoy :-)  [/COLOR][/B]                                                    
 [B][COLOR gold]To adjust your screen to the proper size, click on maintenance - interface settings - and adjust the zoom accordingly. [/COLOR][/B]
+
+
+[B][COLOR red] If you would like to access geo-locked content or concerned about your privacy you can get a VPN, with a 7 day money back guarantee if not satisfied http://bit.ly/privacyvpn [/COLOR][/B]
