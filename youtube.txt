@@ -1,6 +1,6 @@
-name="Youtubers"
+name="EKC Youtube"
 section="no"
-url="https://"
+url="https://www.youtube.com/channel/UC04uYgZ_QlzFHaalfxWNchA?view_as=subscriber"
 icon="https://"
 fanart="http://"
 description="You-Tubers"
