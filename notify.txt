@@ -1,13 +1,2 @@
 3
 |||
-[B][COLOR gold] Thank you everyone for your continued support. [/COLOR][/B]
-
-[B][COLOR white]NFL streams have been placed under the sports section and they seem to be very good streams. [/COLOR][/B]
-[B][COLOR gold]Anything that is acestream seems to be the best. You do need to install acestream first though. [/COLOR][/B]
-[B][COLOR white]To do this click down from maintenance and select acestream and follow all the prompts. [/COLOR][/B]
-[B][COLOR gold]Once it is installed and opened to the sign in screen, there is no sign in. [/COLOR][/B]
-[B][COLOR white]Back click back into Kodi and all of the ace links will work. Enjoy :-)  [/COLOR][/B]                                                    
-[B][COLOR gold]To adjust your screen to the proper size, click on maintenance - interface settings - and adjust the zoom accordingly. [/COLOR][/B]
-
-
-[B][COLOR red] If you would like to access geo-locked content or concerned about your privacy you can get a VPN, with a 7 day money back guarantee if not satisfied http://bit.ly/privacyvpn [/COLOR][/B]
