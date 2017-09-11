@@ -1,6 +1,6 @@
-name="EKC Youtube"
+name="EKC NFL/Acestream tutorial"
 section="no"
-url="https://www.youtube.com/channel/UC04uYgZ_QlzFHaalfxWNchA?view_as=subscriber"
+url="https://www.youtube.com/watch?v=G2JfD171j1A"
 icon="https://"
 fanart="http://"
 description="You-Tubers"
