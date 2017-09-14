@@ -1,0 +1,18 @@
+<rss version="2.0">
+ <channel>
+  <title>My RSS Feed</title>
+  
+  <item>
+   <title>Hello everyone!</title>
+  </item>
+  
+  <item>
+   <title>Just testing the feeds</title>
+  </item>
+  
+  <item>
+   <title>Enjoy your day.</title>
+  </item>
+  
+ </channel>
+</rss>
