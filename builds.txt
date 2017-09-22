@@ -9,6 +9,7 @@ fanart="https://archive.org/download/image1-2/image1-2.PNG"
 preview="https://www.youtube.com/watch?v=oU5F0eP1KXc"
 adult="no"
 description="EKC Build"
+
 name="EKCTS"
 version="1TS"
 url="https://www.dropbox.com/s/x97av9jv2gj66bs/EKC1TS.zip?dl=1"
@@ -19,6 +20,6 @@ icon="https://archive.org/download/image1_20160220/image1.PNG"
 fanart="https://archive.org/download/image1-2/image1-2.PNG"
 preview="https://"
 adult="no"
-description="EKC Build"
+description="EKC build that has been designed for touch screens and lower memory devices"
 
 
