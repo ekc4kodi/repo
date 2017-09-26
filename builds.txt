@@ -1,4 +1,4 @@
- name="EKC"
+name="EKC"
 version="13.3"
 url="https://www.dropbox.com/s/w1uuhp2glhl2vjv/EKC13.2.zip?dl=1"
 gui="http://"
