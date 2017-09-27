@@ -12,4 +12,12 @@ icon="https://"
 fanart="http://"
 description="How to run and operate EKC 13"
 
+name="Update and Prompt Tutorial"
+section="no"
+url="https://www.youtube.com/watch?v=vHWQKiqMMgE&t=8s"
+icon="https://"
+fanart="http://"
+description="How to get the prompt for an update and what steps to follow to allow the update to go through properly"
+
+
 
