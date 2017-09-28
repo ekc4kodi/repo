@@ -1,6 +1,6 @@
 name="EKC October Edition"
-version="13.4"
-url="https://www.dropbox.com/s/g7xvgywkgji5i6f/EKC13.3%2BHALLOWEEN%2BEDITION.zip?dl=1"
+version="13.5"
+url="https://www.dropbox.com/s/lhanp14huc4fnv3/EKC13.5%2BHALLOWEEN%2BEDITION.zip?dl=1"
 gui="http://"
 kodi="17.1"
 theme="http://"
