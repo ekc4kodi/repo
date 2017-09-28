@@ -1,5 +1,5 @@
 name="EKC"
-version="13.5"
+version="13.6"
 url="https://www.dropbox.com/s/lhanp14huc4fnv3/EKC13.5%2BHALLOWEEN%2BEDITION.zip?dl=1"
 gui="http://"
 kodi="17.1"
