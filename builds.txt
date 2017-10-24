@@ -24,7 +24,7 @@ description="EKC build that has been designed for touch screens and lower memory
 
 name="EKC beta"
 version="15.0"
-url="https://www.dropbox.com/s/i14brfunxw99nrb/EKC%2B15%2BBETA2.zip?dl=1"
+url="https://www.dropbox.com/s/ma8eh4y42au40ww/EKC15BETA3.zip?dl=1"
 gui="http://"
 kodi="17.1"
 theme="http://"
@@ -32,7 +32,7 @@ icon="https://archive.org/download/image1_20160220/image1.PNG"
 fanart="https://archive.org/download/image1-2/image1-2.PNG"
 preview="https://"
 adult="no"
-description="beta build not yet released. in testing"
+description="THIS IS THE BETA VERSION OF EKC 15. FEEL FREE TO DOWNLOAD AND TEST FOR ME. PLEASE GIVE ME FEEDBACK AT FACEBOOK.COM/ELITEKUSTOMCONFIG OR EMAIL ELITEKUSTOMCONFIG@GMAIL.COM"
 
 
 
