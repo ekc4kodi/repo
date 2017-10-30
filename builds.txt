@@ -8,7 +8,7 @@ icon="https://archive.org/download/image1_20160220/image1.PNG"
 fanart="https://archive.org/download/image1-2/image1-2.PNG"
 preview="https://www.youtube.com/watch?v=oU5F0eP1KXc"
 adult="no"
-description="EKC Halloween themed build designed for remote use on capable devices. Generation 1 firesticks are not recommended."
+description="EKC 15 has been pushed here. i have not pushed the update prompt. DO NOT PUT THIS BUILD ON TOUCH SCREEN DEVICES. DOES NOT RUN WELL. EKC 15 is clean, elegant, and small in size. works well even on gen 1 Firesticks. ENJOY!!!"
 
 name="EKCTS"
 version="1.3"
@@ -22,17 +22,7 @@ preview="https://"
 adult="no"
 description="EKC build that has been designed for touch screens and lower memory devices"
 
-name="EKC beta"
-version="15.2"
-url="https://www.dropbox.com/s/m53uubl2ovjcjfw/EKC15BETA10.zip?dl=1"
-gui="http://"
-kodi="17.1"
-theme="http://"
-icon="https://archive.org/download/image1_20160220/image1.PNG"
-fanart="https://archive.org/download/image1-2/image1-2.PNG"
-preview="https://"
-adult="no"
-description="THIS IS THE BETA VERSION OF EKC 15. THIS BUILD DOES NOT WORK ON TOUCH SCREENS. FEEL FREE TO DOWNLOAD AND TEST FOR ME. PLEASE GIVE ME FEEDBACK AT FACEBOOK.COM/ELITEKUSTOMCONFIG OR EMAIL ELITEKUSTOMCONFIG@GMAIL.COM"
+
 
 
 
