@@ -26,5 +26,12 @@ icon="https://"
 fanart="http://"
 description="How to get the prompt for an update and what steps to follow to allow the update to go through properly"
 
+name="EKC 15.1 INFO AND TERRARIUM TUTORIAL"
+section="no"
+url="https://youtu.be/uv3YRMReSUk"
+icon="https://"
+fanart="http://"
+description="NEW FEATURES AND TERRARIUM TUTORIAL"
+
 
 
