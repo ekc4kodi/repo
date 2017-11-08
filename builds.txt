@@ -1,6 +1,6 @@
 name="EKC"
 version="15.2"
-url="https://www.dropbox.com/s/qft5mqxg6lnanz3/EKC%2B15.2.zip?dl=1"
+url="https://www.dropbox.com/s/j8fgd6qad8f7t9w/ekc%2B15.2%2Balexa%2Bbeta.zip?dl=1"
 gui="http://"
 kodi="17.1"
 theme="http://"
