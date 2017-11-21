@@ -8,7 +8,7 @@ description="ace stream"
 
 name="Kodi 17.6"
 section="no"
-url="http://mirrors.kodi.tv/releases/android/arm64-v8a/kodi-17.6-Krypton-arm64-v8a.apk"
+url="https://www.apkmirror.com/apk/xbmc-foundation/kodi/kodi-17-6-release/kodi-17-6-2-android-apk-download/"
 icon="http://" 
 fanart="http://"
 adult="No"
