@@ -21,3 +21,12 @@ icon="http://"
 fanart="http://"
 adult="No"
 description="Great app outside of Kodi for movies and shows. big thanks to Lee for this. Great fix until links get better within Kodi"
+
+name="quasar"
+section="no"
+url="https://github.com/scakemyer/plugin.video.quasar/releases/download/v0.9.78/plugin.video.quasar-0.9.78.linux_x86.zip"
+icon="http://" 
+fanart="http://"
+adult="No"
+description="Great app outside of Kodi for movies and shows. big thanks to Lee for this. Great fix until links get better within Kodi"
+
