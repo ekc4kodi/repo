@@ -8,7 +8,7 @@ description="ace stream"
 
 name="Kodi 17.6"
 section="no"
-url="https://www.androidapksbox.com/get/new/72/"
+url="http://storage.androidapksbox.com/1117/kodi_krypton_17.6_androidapksbox.apk"
 icon="http://" 
 fanart="http://"
 adult="No"
