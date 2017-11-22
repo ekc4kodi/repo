@@ -1,5 +1,5 @@
 name="EKC"
-version="15.4"
+version="15.5"
 url="https://www.dropbox.com/s/p9c59i9deske9ci/EKC%2B15.5.zip?dl=1"
 gui="http://"
 kodi="17.1"
