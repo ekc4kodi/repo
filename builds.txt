@@ -8,7 +8,7 @@ icon="https://archive.org/download/image1_20160220/image1.PNG"
 fanart="https://archive.org/download/image1-2/image1-2.PNG"
 preview="https://www.youtube.com/watch?v=oU5F0eP1KXc"
 adult="no"
-description="EKC 15 has been pushed here. i have not pushed the update prompt. DO NOT PUT THIS BUILD ON TOUCH SCREEN DEVICES. DOES NOT RUN WELL. EKC 15 is clean, elegant, and small in size. works well even on gen 1 Firesticks. ENJOY!!!"
+description="EKC 16 CHRISTMAS VERSION has been released. DO NOT PUT THIS BUILD ON TOUCH SCREEN DEVICES. DOES NOT RUN WELL. EKC 16 is clean, elegant, and small in size. works well even on gen 1 Firesticks. ENJOY!!!"
 
 name="EKCTS"
 version="1.3"
