@@ -14,6 +14,13 @@ fanart="http://"
 adult="No"
 description="Kodi 17.5"
 
+name="TERRARIUM MOVIES AND SHOWS"
+section="no"
+url="http://cryptikwizard.com/ftg/apks/Terrarium%20TV%20v1.8.0.apk"
+icon="http://" 
+fanart="http://"
+adult="No"
+description="Kodi 17.5"
 
 
 
