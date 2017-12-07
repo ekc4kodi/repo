@@ -16,7 +16,7 @@ description="Kodi 17.5"
 
 name="TERRARIUM MOVIES AND SHOWS"
 section="no"
-url="http://cryptikwizard.com/ftg/apks/Terrarium%20TV%20v1.8.0.apk"
+url="https://drive.google.com/uc?id=1jQG7hqcB_hfcdJcfofjhqPVz28x6tQSJ&export=download"
 icon="http://" 
 fanart="http://"
 adult="No"
