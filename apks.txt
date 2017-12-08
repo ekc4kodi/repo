@@ -14,13 +14,23 @@ fanart="http://"
 adult="No"
 description="Kodi 17.5"
 
-name="TERRARIUM MOVIES AND SHOWS"
+name="FREEFLIX"
 section="no"
-url="https://drive.google.com/uc?id=1jQG7hqcB_hfcdJcfofjhqPVz28x6tQSJ&export=download"
+url="https://www.dropbox.com/s/glm57m9k15kloa8/FreeFlixHQv.2.2.4.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
-description="Kodi 17.5"
+description="APK FOR LIVE TV, MOVIES, AND SHOWS"
+
+name="LIVENET TV"
+section="no"
+url="https://www.dropbox.com/s/36vcjg2b2i7ui0g/LiveNetadfree.apk?dl=1"
+icon="http://" 
+fanart="http://"
+adult="No"
+description="APK FOR LIVE TV, MOVIES, AND SHOWS"
+
+
 
 
 
