@@ -38,6 +38,14 @@ fanart="http://"
 adult="No"
 description="APK FOR LIVE TV, MOVIES, AND SHOWS"
 
+name="MOUSE TOGGLE FOR APKS"
+section="no"
+url="https://www.dropbox.com/s/w51bfj6iib3e66l/mousetoggle1.08.apk?dl=0"
+icon="http://" 
+fanart="http://"
+adult="No"
+description="TOOL FOR NAVIGATIONG CERTAIN APKS THAT REQUIRE A MOUSE. DOUBLE CLICK PLAY BUTTON TO NAVIGATE"
+
 
 
 
