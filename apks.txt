@@ -54,6 +54,14 @@ fanart="http://"
 adult="No"
 description="GREAT LIVE TV ADDON. MOUSE TOGGLE IS REQUIRED"
 
+name="TEA TV"
+section="no"
+url="https://www.dropbox.com/s/yqffi31rafnrcty/TeaTV.v.4.5radfre.zip?dl=1"
+icon="http://" 
+fanart="http://"
+adult="No"
+description="GREAT ALL AROUND APK"
+
 
 
 
