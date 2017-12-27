@@ -62,6 +62,14 @@ fanart="http://"
 adult="No"
 description="GREAT ALL AROUND APK"
 
+name="MOBDRO FREEEMIUM"
+section="no"
+url="https://www.dropbox.com/s/42ttqkc1012em03/com.mobdro.android_2.0.58_Freemium.apk?dl=1"
+icon="http://" 
+fanart="http://"
+adult="No"
+description="APK FOR LIVE TV"
+
 
 
 
