@@ -8,7 +8,7 @@ description="ace stream"
 
 name="TERRARIUM"
 section="no"
-url="https://drive.google.com/uc?id=1jQG7hqcB_hfcdJcfofjhqPVz28x6tQSJ&export=download"
+url="https://www.dropbox.com/s/avcd204dkfeow5y/terrarium1.8.5adless.zip?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
