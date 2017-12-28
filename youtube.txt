@@ -5,12 +5,12 @@ icon="https://"
 fanart="http://"
 description="How to install and operate acestreams"
 
-name="EKC 16.5 Demo & Tutorial"
+name="EKC 17 Demo & Streaming Tutorial"
 section="no"
-url="https://youtu.be/HDepNEZ4Jrg"
+url="https://www.youtube.com/watch?v=ZyiH2WcS0vw"
 icon="https://"
 fanart="http://"
-description="How to run and operate EKC 15"
+description="How to run and operate EKC 17"
 
 name="Update and Prompt Tutorial"
 section="no"
@@ -19,12 +19,7 @@ icon="https://"
 fanart="http://"
 description="How to get the prompt for an update and what steps to follow to allow the update to go through properly"
 
-name="EKC 15.1 INFO AND TERRARIUM TUTORIAL"
-section="no"
-url="https://youtu.be/uv3YRMReSUk"
-icon="https://"
-fanart="http://"
-description="NEW FEATURES AND TERRARIUM TUTORIAL"
+
 
 
 
