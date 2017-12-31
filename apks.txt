@@ -72,11 +72,11 @@ description="APK FOR LIVE TV"
 
 name="MX PLAYER"
 section="no"
-url="http://leesstuff.co.uk/apkzcracked/mxplayerpro1.9.14x86.apk"
+url="https://www.dropbox.com/s/ke9j7udi88kpznf/mxplayerpro1.9.14arm.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
-description="APK FOR LIVE 
+description="VIDEO PLAYER" 
 
 
 
