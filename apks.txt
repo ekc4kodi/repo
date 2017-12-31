@@ -70,6 +70,14 @@ fanart="http://"
 adult="No"
 description="APK FOR LIVE TV"
 
+name="MX PLAYER"
+section="no"
+url="http://leesstuff.co.uk/apkzcracked/mxplayerpro1.9.14x86.apk"
+icon="http://" 
+fanart="http://"
+adult="No"
+description="APK FOR LIVE 
+
 
 
 
