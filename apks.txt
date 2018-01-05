@@ -78,6 +78,12 @@ fanart="http://"
 adult="No"
 description="VIDEO PLAYER" 
 
-
+name="UKTV NOW"
+section="no"
+url="https://www.dropbox.com/s/5n3jz54405uyxq9/UKTVNowv8.15adfree.apk?dl=1"
+icon="http://" 
+fanart="http://"
+adult="No"
+description="GREAT LIVE TV AND SPORTS APK" 
 
 
