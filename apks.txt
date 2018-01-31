@@ -32,7 +32,7 @@ description="APK FOR MOVIES AND SHOWS"
 
 name="KODI UPDATE"
 section="no"
-url="https://www.dropbox.com/s/d5stcfe7wkp5tfz/kodi-20180130-3cd7a7ce-master-arm64-v8a.apk?dl=1"
+url="https://thevpn.guru/kodi18.apk"
 icon="http://" 
 fanart="http://"
 adult="No"
