@@ -32,7 +32,7 @@ description="APK FOR MOVIES AND SHOWS"
 
 name="KODI UPDATE"
 section="no"
-url="https://thevpn.guru/kodi18.apk"
+url="https://"
 icon="http://" 
 fanart="http://"
 adult="No"
