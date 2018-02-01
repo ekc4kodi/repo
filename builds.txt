@@ -12,7 +12,7 @@ description="DO NOT PUT THIS BUILD ON TOUCH SCREEN DEVICES. DOES NOT RUN WELL. E
 
 name="EKC TEST BETA DO NOT DOWNLOAD"
 version="17.5"
-url="https://www.dropbox.com/s/d5stcfe7wkp5tfz/kodi-20180130-3cd7a7ce-master-arm64-v8a.apk?dl=1"
+url="https://www.dropbox.com/s/lrr0g4uu5hb93tx/EKC%2B18.zip?dl=1"
 gui="http://"
 kodi="18.0"
 theme="http://"
