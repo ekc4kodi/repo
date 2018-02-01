@@ -10,7 +10,7 @@ preview="https://www.youtube.com/watch?v=oU5F0eP1KXc"
 adult="no"
 description="DO NOT PUT THIS BUILD ON TOUCH SCREEN DEVICES. DOES NOT RUN WELL. EKC is clean, elegant, and small in size. works well even on gen 1 Firesticks. ENJOY!!!"
 
-name="EKC TEST BETA DO NOT DOWNLOAD"
+name="EKC BETA DO NOT DOWNLOAD"
 version="17.5"
 url="https://www.dropbox.com/s/lrr0g4uu5hb93tx/EKC%2B18.zip?dl=1"
 gui="http://"
