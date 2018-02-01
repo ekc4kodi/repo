@@ -80,7 +80,7 @@ description="GREAT LIVE TV AND SPORTS APK"
 
 name="kodi leia"
 section="no"
-url="https://www.dropbox.com/s/i58i9p46xv85ayo/kodi1832b.apk?dl=01"
+url="https://www.dropbox.com/s/i58i9p46xv85ayo/kodi1832b.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
