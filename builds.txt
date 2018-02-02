@@ -10,9 +10,9 @@ preview="https://www.youtube.com/watch?v=oU5F0eP1KXc"
 adult="no"
 description="DO NOT PUT THIS BUILD ON TOUCH SCREEN DEVICES. DOES NOT RUN WELL. EKC is clean, elegant, and small in size. works well even on gen 1 Firesticks. ENJOY!!!"
 
-name="EKC BETA DO NOT DOWNLOAD"
+name="EKC 18 BETA"
 version="17.5"
-url="https://www.dropbox.com/s/lrr0g4uu5hb93tx/EKC%2B18.zip?dl=1"
+url="https://www.dropbox.com/s/ycq3x8k31vkcyaw/EKC%2B18%2BBETA.zip?dl=1"
 gui="http://"
 kodi="18.0"
 theme="http://"
@@ -20,7 +20,7 @@ icon="https://archive.org/download/image1_20160220/image1.PNG"
 fanart="https://archive.org/download/image1-2/image1-2.PNG"
 preview="https://www.youtube.com/watch?v=oU5F0eP1KXc"
 adult="no"
-description="DO NOT DOWNLOAD AT THIS TIME. TESTING FOR COMBATABILITY"
+description="FEEL FREE TO DOWNLOAD AND LET ME KNOW WHAT YOU ALL THINK. I REBUILT FROM SCRATCH SO LET ME KNOW IF I FORGOT TO PUT IT SOME FEATURES. STILL WORKING ON THE APK SECTION"
 
 
 
