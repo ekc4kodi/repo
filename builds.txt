@@ -8,7 +8,7 @@ icon="https://archive.org/download/image1_20160220/image1.PNG"
 fanart="https://archive.org/download/image1-2/image1-2.PNG"
 preview="https://www.youtube.com/watch?v=oU5F0eP1KXc"
 adult="no"
-description="DO NOT PUT THIS BUILD ON TOUCH SCREEN DEVICES. DOES NOT RUN WELL. EKC is clean, elegant, and small in size. works well even on gen 1 Firesticks. ENJOY!!!"
+description="THIS IS EKC MAIN BUILD. THIS BUILD WILL BE UPDATED REGULARLY AND CAN BE USED ON ANDROID BOXES, COMPUTERS, AND TOUCH SCREEN DEVICES"
 
 name="EKC 17"
 version="17.5"
