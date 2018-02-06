@@ -1,25 +1,7 @@
-name="EKC NFL/Acestream Tutorial"
-section="no"
-url="https://www.youtube.com/watch?v=G2JfD171j1A"
-icon="https://"
-fanart="http://"
-description="How to install and operate acestreams"
-
 name="EKC 18 Demo & Streaming Tutorial"
 section="no"
 url="https://www.youtube.com/watch?v=avsVgJ3ly5c&t=49s"
 icon="https://"
 fanart="http://"
 description="How to run and operate EKC 17"
-
-name="Update and Prompt Tutorial"
-section="no"
-url="https://www.youtube.com/watch?v=vHWQKiqMMgE&t=8s"
-icon="https://"
-fanart="http://"
-description="How to get the prompt for an update and what steps to follow to allow the update to go through properly"
-
-
-
-
 
