@@ -1,6 +1,6 @@
 name="THE PLAYERS KLUB APK"
 section="no"
-url="https://www.dropbox.com/s/oes5cxzkzi0txxp/TPK%20Player_vFinal_apkpure.com.apk?dl=1"
+url="https://www.dropbox.com/s/59xf0orr1sg7rpj/TPK%20Player_androidappsapk.co_6.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
