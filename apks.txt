@@ -1,3 +1,11 @@
+name="THE PLAYERS KLUB APK"
+section="no"
+url="https://www.dropbox.com/s/oes5cxzkzi0txxp/TPK%20Player_vFinal_apkpure.com.apk?dl=0"
+icon="http://" 
+fanart="http://"
+adult="No"
+description="GREAT APK IF YOU HAVE A PLAYERS KLUB ACCOUNT. YOU CAN SIGN UP FOR PLAYERS KLUB AT BIT.LY/PLAYERSIPTV. COST IS $5 A MONTH"
+
 name="FREEFLIX"
 section="no"
 url="https://www.dropbox.com/s/7myk2n7lhwp1gxo/FreeFlixHQv.2.2.8.1%20%281%29.apk?dl=1"
