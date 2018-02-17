@@ -40,7 +40,7 @@ description="APK FOR MOVIES AND SHOWS"
 
 name="KODI UPDATE"
 section="no"
-url="https://"
+url="http://troypoint.com/kodistable"
 icon="http://" 
 fanart="http://"
 adult="No"
