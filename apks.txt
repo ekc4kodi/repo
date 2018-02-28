@@ -1,3 +1,19 @@
+name="TERRARIUM"
+section="no"
+url="https://www.dropbox.com/s/d9ctx6zrrowxboi/terrarium.apk?dl=1"
+icon="http://" 
+fanart="http://"
+adult="No"
+description="THE APK KING OF MOVIES AND SHOWS. GREAT BACKUP. DOWNLOAD MXPLAYER TO USE"
+
+name="MX PLAYER"
+section="no"
+url="https://www.dropbox.com/s/ke9j7udi88kpznf/mxplayerpro1.9.14arm.apk?dl=1"
+icon="http://" 
+fanart="http://"
+adult="No"
+description="PLATER FOR TERRARIUM"
+
 name="THE PLAYERS KLUB APK"
 section="no"
 url="https://www.dropbox.com/s/59xf0orr1sg7rpj/TPK%20Player_androidappsapk.co_6.apk?dl=1"
@@ -14,14 +30,6 @@ fanart="http://"
 adult="No"
 description="ACESTREAM PLAYER/MAINLY FOR SPORTS IN EKC"
 
-name="TERRARIUM"
-section="no"
-url="https://www.dropbox.com/s/80dc9c0nfbk6nxc/terrariumadfree1.9.1.apk?dl=1"
-icon="http://" 
-fanart="http://"
-adult="No"
-description="APK FOR MOVIES AND SHOWS"
-
 name="KODI UPDATE"
 section="no"
 url="http://troypoint.com/kodistable"
@@ -30,13 +38,7 @@ fanart="http://"
 adult="No"
 description="Kodi 17.6"
 
-name="MX PLAYER"
-section="no"
-url="https://www.dropbox.com/s/ke9j7udi88kpznf/mxplayerpro1.9.14arm.apk?dl=1"
-icon="http://" 
-fanart="http://"
-adult="No"
-description="PLATER FOR TERRARIUM"
+
 
 
 
