@@ -4,7 +4,7 @@ url="https://www.dropbox.com/s/xr3qs79gqwfwsc0/terrarium%20%284%29.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
-description="THE APK KING OF MOVIES AND SHOWS. GREAT BACKUP. DOWNLOAD MXPLAYER TO USE"
+description="THE APK KING OF MOVIES AND SHOWS. GREAT BACKUP WHEN EKC LINKS ARE DOWN. DOWNLOAD MXPLAYER TO USE"
 
 name="MX PLAYER"
 section="no"
