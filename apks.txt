@@ -1,6 +1,6 @@
 name="TERRARIUM"
 section="no"
-url="https://www.dropbox.com/s/xr3qs79gqwfwsc0/terrarium%20%284%29.apk?dl=1"
+url="http://leesstuff.co.uk/streamingapps/terrarium.apk"
 icon="http://" 
 fanart="http://"
 adult="No"
