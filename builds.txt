@@ -10,18 +10,6 @@ preview="https://www.youtube.com/watch?v=oU5F0eP1KXc"
 adult="no"
 description="THIS IS EKC MAIN BUILD. THIS BUILD WILL BE UPDATED REGULARLY AND CAN BE USED ON ANDROID BOXES, COMPUTERS, AND TOUCH SCREEN DEVICES"
 
-name="asd"
-version="18.5"
-url="https://www.dropbox.com/s/rglu6zsk1c4k1m7/ASD.zip?dl=1"
-gui="https://www.dropbox.com/s/ntt5yv8awimfa8q/EKC%252B18.4.1_guisettings.zip?dl=1"
-kodi="17.1"
-theme="http://"
-icon="https://www.dropbox.com/s/5588y7hi28lbtsa/ELITE%20KUSTOM%20CONFIG.png?dl=1"
-fanart="https://archive.org/download/image1-2/image1-2.PNG"
-preview="https://www.youtube.com/watch?v=oU5F0eP1KXc"
-adult="no"
-description="THIS IS EKC MAIN BUILD. THIS BUILD WILL BE UPDATED REGULARLY AND CAN BE USED ON ANDROID BOXES, COMPUTERS, AND TOUCH SCREEN DEVICES"
-
 
 
 
