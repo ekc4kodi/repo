@@ -70,6 +70,25 @@ fanart="http://"
 adult="No"
 description="Kodi 17.6"
 
+name="GEARS TV APK"
+section="no"
+url="https://www.dropbox.com/s/ajt6csxqcv8xequ/GearsTv_Master-release-arm.apk?dl=1"
+icon="http://" 
+fanart="http://"
+adult="No"
+description="GREAT PAID IPTV SERVICE"
+
+name="GEARS TV GUIDE APK"
+section="no"
+url="https://www.dropbox.com/s/xdvote7xz8hbc2b/mtvgp.apk?dl=1"
+icon="http://" 
+fanart="http://"
+adult="No"
+description="GREAT PAID IPTV SERVICE GUIDE. MUST PAY THE EXTRA FOR THIS GUIDE"
+
+
+
+
 
 
 
