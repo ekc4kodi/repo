@@ -12,7 +12,7 @@ description="THIS IS EKC MAIN BUILD. THIS BUILD WILL BE UPDATED REGULARLY AND CA
 
 name="test. dont click"
 version="18.6"
-url="https://www.dropbox.com/s/sxv7p4exwe8gbcr/ASD%2B2.zip?dl=1"
+url="https://www.dropbox.com/s/u8l5nvp7m4w00m9/asd%2B1.4.zip?dl=1"
 gui="https://www.dropbox.com/s/ntt5yv8awimfa8q/EKC%252B18.4.1_guisettings.zip?dl=1"
 kodi="17.1"
 theme="http://"
