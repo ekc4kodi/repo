@@ -32,7 +32,7 @@ description="GREAT APK FOR SPORTS AND LIVE TV FROM ALL OVER THE WORLD"
 
 name="UKTV NOW"
 section="LIVE TV"
-url="http://uktvnow.net/download.php"
+url="http://uktvnow.net/download/UKTVNowFirestick7.15.apk"
 icon="http://" 
 fanart="http://"
 adult="No"
