@@ -1,6 +1,6 @@
 name="TERRARIUM"
 section="MOVIES AND TV SHOWS"
-url="http://www.docsquiffy.com/thank-downloading-terrarium-tv/"
+url="https://tinyurl.com/y92n7hds"
 icon="http://" 
 fanart="http://"
 adult="No"
