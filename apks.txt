@@ -80,7 +80,7 @@ description="Kodi 17.6"
 
 name="SPOTIFY"
 section="VIDEO PLAYERS"
-url="https://www.dropbox.com/s/m1fcopdpdsyuvs3/Spotify-v8.4.52.812-Final-www.ReXdl.com.apk?dl=1"
+url="https://www.dropbox.com/s/ml3molqgb78jvqa/com.spotify.music_mod_v8.4.46.575_BestForAndroid.com.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
