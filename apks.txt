@@ -1,6 +1,6 @@
 name="TERRARIUM"
 section="MOVIES AND TV SHOWS"
-url="https://tinyurl.com/y92n7hds"
+url="http://cryptikwizard.com/ftg/ad_free_apks/TerrariumTv.apk"
 icon="http://" 
 fanart="http://"
 adult="No"
