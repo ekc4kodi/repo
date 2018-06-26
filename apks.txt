@@ -1,6 +1,6 @@
 name="TERRARIUM"
 section="MOVIES AND TV SHOWS"
-url="http://cryptikwizard.com/ftg/ad_free_apks/TerrariumTv.apk"
+url="https://www.dropbox.com/s/xr3qs79gqwfwsc0/terrarium%20%284%29.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
