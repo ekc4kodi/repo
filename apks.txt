@@ -1,6 +1,6 @@
 name="TERRARIUM"
 section="MOVIES AND TV SHOWS"
-url="https://www.dropbox.com/s/xr3qs79gqwfwsc0/terrarium%20%284%29.apk?dl=1"
+url="https://archive.org/download/StreamingApps/T-TV-v1.9.10.apk"
 icon="http://" 
 fanart="http://"
 adult="No"
