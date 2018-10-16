@@ -16,7 +16,7 @@ description="PLAYER FOR TERRARIUM"
 
 name="TERRARIUM FOR FIRESTICKS"
 section="MOVIES AND TV SHOWS"
-url="https://archive.org/download/StreamingApps/T-TV-v1.9.10_Lite.apk"
+url="http://strategie-marketing-paris.com/engine/go.php?file2=Movie%20Play%20Red%20v1.06%20[Terrarium%20Clone-Working]%20+%20[No-Ads]%20APK%20[Latest]"
 icon="http://" 
 fanart="http://"
 adult="No"
