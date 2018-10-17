@@ -16,7 +16,7 @@ description="PLAYER FOR TERRARIUM"
 
 name="Try this one Mak"
 section="MOVIES AND TV SHOWS"
-url="http://s000.tinyupload.com/download.php?file_id=15897266204072052642&t=1589726620407205264233143"
+url="http://apk.apkmonk.com/apks-15/com.showtime.redmovieshd_2018-08-15.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=IFVYHACUO60QSGWW9L9Z%2F20181017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20181017T001746Z&X-Amz-Expires=2400&X-Amz-SignedHeaders=host&X-Amz-Signature=b4572b52386d991a4936c403406d08e9600ae21899072b1a124d6f6efd833de3"
 icon="http://" 
 fanart="http://"
 adult="No"
