@@ -16,11 +16,11 @@ description="ACESTREAM PLAYER/MAINLY FOR SPORTS IN EKC"
 
 name="KODI 18 BETA"
 section="VIDEO PLAYERS"
-url="https://www.dropbox.com/s/g0da00vy8du2o04/kodi-20180928-0688a60b-retroplayer-18beta3-arm-armeabi-v7a.apk?dl=1"
+url="https://www.dropbox.com/s/78a2uuhhp2cy11k/kodi-18.0-Leia_rc3-arm64-v8a.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
-description="MUSIC PLAYER"
+description="BETA"
 
 name="GEARS TV APK"
 section="PREMIUM APKS"
