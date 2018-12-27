@@ -16,7 +16,7 @@ description="ACESTREAM PLAYER/MAINLY FOR SPORTS IN EKC"
 
 name="KODI 18 BETA"
 section="VIDEO PLAYERS"
-url="https://www.dropbox.com/s/dvayoffrlki5b0j/kodi-18.0-Leia_rc3-arm64-v8a.apk?dl=1"
+url="https://www.dropbox.com/s/kleor2h6heu3jee/kodi-18.0-Leia_rc3-armeabi-v7a.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
