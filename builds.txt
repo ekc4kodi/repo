@@ -36,7 +36,7 @@ description="TRAINING BUILD. DO NOT DOWNLOAD"
 
 name="EKC 18 GAMING EDITION BETA"
 version="2.0"
-url="https://www.dropbox.com/s/kbg26sjqus4kn50/EKC%2B26%2BGAMING%2BBETA.zip?dl=0"
+url="https://www.dropbox.com/s/kbg26sjqus4kn50/EKC%2B26%2BGAMING%2BBETA.zip?dl=1"
 gui="https://www.dropbox.com/s/ntt5yv8awimfa8q/EKC%252B18.4.1_guisettings.zip?dl=1"
 kodi="18.0"
 theme="http://"
