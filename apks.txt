@@ -40,7 +40,7 @@ description="GREAT PAID IPTV SERVICE GUIDE. MUST PAY THE EXTRA FOR THIS GUIDE"
 
 name="KODI 18 GAMING"
 section="PREMIUM APKS"
-url="https://www.dropbox.com/s/g0da00vy8du2o04/kodi-20180928-0688a60b-retroplayer-18beta3-arm-armeabi-v7a.apk?dl=1"
+url="https://www.dropbox.com/s/kleor2h6heu3jee/kodi-18.0-Leia_rc3-armeabi-v7a.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
