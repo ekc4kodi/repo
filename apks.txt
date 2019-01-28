@@ -32,7 +32,7 @@ description="GREAT PAID IPTV SERVICE"
 
 name="GEARS TV GUIDE APK"
 section="PREMIUM APKS"
-url="https://mayfairguides.net/apk/mtvgp.apk"
+url="http://drob.tech/apk/M-TV%20Pro%20Guide%20Apk.apk"
 icon="http://" 
 fanart="http://"
 adult="No"
