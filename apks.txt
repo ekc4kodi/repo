@@ -32,7 +32,7 @@ description="GREAT PAID IPTV SERVICE"
 
 name="GEARS TV GUIDE APK"
 section="PREMIUM APKS"
-url="http://drob.tech/apk/M-TV%20Pro%20Guide%20Apk.apk"
+url="https://www.dropbox.com/s/2f409e7541nhqql/M-TV%20Pro%20Guide%20Apk.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
