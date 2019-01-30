@@ -16,7 +16,7 @@ description="ACESTREAM PLAYER/MAINLY FOR SPORTS IN EKC"
 
 name="KODI 18 BETA"
 section="VIDEO PLAYERS"
-url="https://www.dropbox.com/s/llf7awtq279875n/kodi-18.0-Leia_rc4-armeabi-v7a.apk?dl=1"
+url="http://troypoint.com/k18"
 icon="http://" 
 fanart="http://"
 adult="No"
