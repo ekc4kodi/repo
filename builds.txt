@@ -1,6 +1,6 @@
 name="EKC"
 version="27.0"
-url="https://www.dropbox.com/s/e4ohgzqpghyfeu1/EKC27211.zip?dl=1"
+url="https://www.dropbox.com/s/14vntw64mp50gbk/EKC272555.zip?dl=1"
 gui="https://www.dropbox.com/s/ntt5yv8awimfa8q/EKC%252B18.4.1_guisettings.zip?dl=1"
 kodi="18.0"
 theme="http://"
