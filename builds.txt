@@ -36,7 +36,7 @@ description="TRAINING BUILD. DO NOT DOWNLOAD"
 
 name="EKC ELEM BETA"
 version="1.0"
-url="https://www.dropbox.com/s/lrmhh78l452l9b6/EKC%252BELEM%252BBETA_guisettings.zip?dl=1"
+url="https://www.dropbox.com/s/hirc4au6kiarzq5/EKC%2BELEM%2BBETA.zip?dl=1"
 gui="https://www.dropbox.com/s/ntt5yv8awimfa8q/EKC%252B18.4.1_guisettings.zip?dl=1"
 kodi="18.0"
 theme="http://"
