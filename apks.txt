@@ -16,7 +16,7 @@ description="GREAT PAID IPTV SERVICE GUIDE. MUST PAY THE EXTRA FOR THIS GUIDE"
 
 name="KODI 18"
 section="VIDEO PLAYERS"
-url="https://www.dropbox.com/s/b629w103ro7puf8/kodi-18.0-Leia-armeabi-v7a.apk?dl=1"
+url="https://troypoint.com/k18"
 icon="http://" 
 fanart="http://"
 adult="No"
