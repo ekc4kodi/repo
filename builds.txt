@@ -12,7 +12,7 @@ description="THIS IS EKC MAIN BUILD. THIS BUILD WILL BE UPDATED REGULARLY AND CA
 
 name="EKC ELEMENTUM BETA"
 version="26.2"
-url="https://www.dropbox.com/s/qv3reaiw7aetueq/ekc%2028%20beta.zip?dl=1"
+url="https://www.dropbox.com/s/rdc7e07mjkptqhg/EKC28BETA5.zip?dl=1"
 gui="https://www.dropbox.com/s/ntt5yv8awimfa8q/EKC%252B18.4.1_guisettings.zip?dl=1"
 kodi="18.0"
 theme="http://"
