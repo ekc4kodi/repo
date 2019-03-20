@@ -1,5 +1,5 @@
 name="EKC"
-version="28.2"
+version="28.3"
 url="https://www.dropbox.com/s/bkx3herbln7ouwc/EKC28.3.zip?dl=1"
 gui="https://www.dropbox.com/s/ntt5yv8awimfa8q/EKC%252B18.4.1_guisettings.zip?dl=1"
 kodi="18.0"
