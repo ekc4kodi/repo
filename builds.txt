@@ -12,7 +12,7 @@ description="THIS IS EKC MAIN BUILD. THIS BUILD WILL BE UPDATED REGULARLY AND CA
 
 name="BETA TESTS"
 version="30.2"
-url="https://www.dropbox.com/s/k36u39y3bsd7q9e/EKC%2BDEST%2BBETA.zip?dl=1"
+url="https://www.dropbox.com/s/3jm4douyd5y811u/ekc%2B31.12.zip?dl=1"
 gui="https://www.dropbox.com/s/ntt5yv8awimfa8q/EKC%252B18.4.1_guisettings.zip?dl=1"
 kodi="18.0"
 theme="http://"
