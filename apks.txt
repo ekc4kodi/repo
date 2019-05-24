@@ -1,4 +1,4 @@
-name="GEARS TV APK"
+name="EKC TV"
 section="PREMIUM APKS"
 url="https://www.dropbox.com/s/88gf3j493mz3903/EKC_LIVE_TV.apk?dl=1"
 icon="http://" 
