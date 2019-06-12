@@ -1,14 +1,6 @@
-name="EKC TV"
-section="PREMIUM APKS"
-url="https://www.dropbox.com/s/88gf3j493mz3903/EKC_LIVE_TV.apk?dl=1"
-icon="http://" 
-fanart="http://"
-adult="No"
-description="GREAT PAID IPTV SERVICE"
-
 name="EKC SMART PLAYER APK"
 section="PREMIUM APKS"
-url="https://www.dropbox.com/s/88gf3j493mz3903/EKC_LIVE_TV.apk?dl=1"
+url="https://www.dropbox.com/s/fi0e7mviv3uk530/EKC%20SMART%20PLAYER.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
@@ -22,22 +14,6 @@ fanart="http://"
 adult="No"
 description="GREAT PAID IPTV SERVICE GUIDE. MUST PAY THE EXTRA FOR THIS GUIDE"
 
-name="GEARS TV GUIDE APK"
-section="PREMIUM APKS"
-url="https://www.dropbox.com/s/ktsmedw7odzafec/M-TV%20Pro%20Guide%20Apk%20%281%29.apk?dl=1"
-icon="http://" 
-fanart="http://"
-adult="No"
-description="GREAT PAID IPTV SERVICE GUIDE. MUST PAY THE EXTRA FOR THIS GUIDE"
-
-name="KODI 18"
-section="VIDEO PLAYERS"
-url="https://troypoint.com/k18"
-icon="http://" 
-fanart="http://"
-adult="No"
-description="FINAL CURRENT KODI VERSION"
-
 name="EKC APK"
 section="PREMIUM APKS"
 url="https://www.dropbox.com/s/tos8xi6pzgaduss/EKC-v18.apk?dl=1"
@@ -46,13 +22,7 @@ fanart="http://"
 adult="No"
 description="GREAT APK IF YOU HAVE A PLAYERS KLUB ACCOUNT. YOU CAN SIGN UP FOR PLAYERS KLUB AT BIT.LY/PLAYERSIPTV. COST IS $5 A MONTH"
 
-name="AceStream Engine"
-section="VIDEO PLAYERS"
-url="https://www.dropbox.com/s/e9s3tqjr7awmu4e/ace-stream-media-3-1-19-1.apk?dl=1"
-icon="http://" 
-fanart="http://"
-adult="No"
-description="ACESTREAM PLAYER/MAINLY FOR SPORTS IN EKC"
+
 
 
 
