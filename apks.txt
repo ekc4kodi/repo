@@ -22,6 +22,15 @@ fanart="http://"
 adult="No"
 description="GREAT APK IF YOU HAVE A PLAYERS KLUB ACCOUNT. YOU CAN SIGN UP FOR PLAYERS KLUB AT BIT.LY/PLAYERSIPTV. COST IS $5 A MONTH"
 
+name="EKC TV BRTA TEST"
+section="PREMIUM APKS"
+url="https://www.dropbox.com/s/aeh042xsrbm0yn6/EKC_XC.apk?dl=1"
+icon="http://" 
+fanart="http://"
+adult="No"
+description="GREAT APK IF YOU HAVE A PLAYERS KLUB ACCOUNT. YOU CAN SIGN UP FOR PLAYERS KLUB AT BIT.LY/PLAYERSIPTV. COST IS $5 A MONTH"
+
+
 
 
 
