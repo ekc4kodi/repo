@@ -8,7 +8,7 @@ description="GREAT PAID IPTV SERVICE GUIDE. MUST PAY THE EXTRA FOR THIS GUIDE"
 
 name="EKC PERFECT GUIDE APK"
 section="PREMIUM APKS"
-url="https://www.dropbox.com/s/h7g64zf1zsb5d75/EKC-TV_PP.apk?dl=1"
+url="https://www.dropbox.com/s/n2r5pccbiw2tk8q/EKC_Player.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
