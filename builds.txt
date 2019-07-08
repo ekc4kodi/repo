@@ -1,6 +1,6 @@
 name="EKC"
 version="33.1"
-url="https://www.dropbox.com/s/05vuiicnyp7a8lf/EKC%2B33.1.zip?dl=1"
+url="https://www.dropbox.com/s/rdjeihugrmnp06t/EKC33.1.2.zip?dl=1"
 gui="https://www.dropbox.com/s/ntt5yv8awimfa8q/EKC%252B18.4.1_guisettings.zip?dl=1"
 kodi="18.0"
 theme="http://"
@@ -34,7 +34,6 @@ fanart="https://archive.org/download/image1-2/image1-2.PNG"
 preview="https://www.youtube.com/watch?v=oU5F0eP1KXc"
 adult="no"
 description="TRAINING BUILD. DO NOT DOWNLOAD"
-
 
 
 
