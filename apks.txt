@@ -1,6 +1,6 @@
 name="EKC SMART PLAYER APK"
 section="PREMIUM APKS"
-url="https://www.dropbox.com/s/fi0e7mviv3uk530/EKC%20SMART%20PLAYER.apk?dl=1"
+url="https://www.dropbox.com/s/mx8q37swsimilrp/EKCSMART.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
@@ -8,7 +8,7 @@ description="GREAT PAID IPTV SERVICE GUIDE. MUST PAY THE EXTRA FOR THIS GUIDE"
 
 name="EKC PERFECT GUIDE APK"
 section="PREMIUM APKS"
-url="https://www.dropbox.com/s/h7g64zf1zsb5d75/EKC-TV_PP.apk?dl=1"
+url="https://www.dropbox.com/s/ch0biva2zu97e7x/PERFECT.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
@@ -16,7 +16,7 @@ description="GREAT PAID IPTV SERVICE GUIDE. MUST PAY THE EXTRA FOR THIS GUIDE"
 
 name="EKC APK"
 section="PREMIUM APKS"
-url="https://www.dropbox.com/s/tos8xi6pzgaduss/EKC-v18.apk?dl=1"
+url="https://www.dropbox.com/s/ccyjy19igdrg71k/EKC_SILVER.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
@@ -29,7 +29,6 @@ description="GREAT APK IF YOU HAVE A PLAYERS KLUB ACCOUNT. YOU CAN SIGN UP FOR P
 
 
 \
-
 
 
 
