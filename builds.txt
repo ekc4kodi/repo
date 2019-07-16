@@ -1,6 +1,6 @@
 name="EKC"
 version="34.0"
-url="https://www.dropbox.com/s/3f1bdexx2dp47tw/ekc341.zip?dl=1"
+url="https://www.dropbox.com/s/1gbbdgbpdhz462v/EKC%2B34.001.zip?dl=1"
 gui="https://www.dropbox.com/s/ntt5yv8awimfa8q/EKC%252B18.4.1_guisettings.zip?dl=1"
 kodi="18.0"
 theme="http://"
@@ -9,4 +9,3 @@ fanart="https://archive.org/download/image1-2/image1-2.PNG"
 preview="https://www.youtube.com/watch?v=oU5F0eP1KXc"
 adult="no"
 description="THIS IS EKC MAIN BUILD. THIS BUILD WILL BE UPDATED REGULARLY AND CAN BE USED ON ANDROID BOXES, COMPUTERS, AND TOUCH SCREEN DEVICES"
-
