@@ -6,7 +6,7 @@ fanart="http://"
 adult="No"
 description="GREAT PAID IPTV SERVICE GUIDE. MUST PAY THE EXTRA FOR THIS GUIDE"
 
-name="EKC SILVER"
+name="EKC SILVER 18.3"
 section="PREMIUM APKS"
 url="https://www.dropbox.com/s/ccyjy19igdrg71k/EKC_SILVER.apk?dl=1"
 icon="http://" 
