@@ -1,6 +1,6 @@
 name="EKC TV"
 section="PREMIUM APKS"
-url="https://www.dropbox.com/s/qsh7jkjmh8rcycz/EKCTV.apk?dl=1"
+url="https://www.dropbox.com/s/uw8pd6uty4s5oxd/EKC%20TV.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
@@ -25,7 +25,6 @@ description="GREAT APK IF YOU HAVE A PLAYERS KLUB ACCOUNT. YOU CAN SIGN UP FOR P
 
 
 \
-
 
 
 
