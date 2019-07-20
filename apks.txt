@@ -1,10 +1,18 @@
-name="EKC TV R"
+name="EKC TV R (RECOMMENDED)"
 section="PREMIUM APKS"
 url="https://www.dropbox.com/s/uw8pd6uty4s5oxd/EKC%20TV.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
-description="GREAT PAID IPTV SERVICE GUIDE. MUST PAY THE EXTRA FOR THIS GUIDE"
+description="GREAT PAID IPTV."
+
+name="EKC TV SMART PLAYER"
+section="PREMIUM APKS"
+url="https://www.dropbox.com/s/fi0e7mviv3uk530/EKC%20SMART%20PLAYER.apk?dl=1"
+icon="http://" 
+fanart="http://"
+adult="No"
+description="GREAT PAID IPTV SERVICE."
 
 name="EKC SILVER 18.3"
 section="PREMIUM APKS"
@@ -12,7 +20,7 @@ url="https://www.dropbox.com/s/7r7suizyxqqiqex/EKCSILVER-v18.3-32.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
-description="GREAT APK IF YOU HAVE A PLAYERS KLUB ACCOUNT. YOU CAN SIGN UP FOR PLAYERS KLUB AT BIT.LY/PLAYERSIPTV. COST IS $5 A MONTH"
+description="OUR KODI FORK"
 
 
 
