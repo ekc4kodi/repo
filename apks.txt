@@ -8,7 +8,7 @@ description="GREAT PAID IPTV SERVICE GUIDE. MUST PAY THE EXTRA FOR THIS GUIDE"
 
 name="EKC SILVER 18.3"
 section="PREMIUM APKS"
-url="https://www.dropbox.com/s/ccyjy19igdrg71k/EKC_SILVER.apk?dl=1"
+url="https://www.dropbox.com/s/7r7suizyxqqiqex/EKCSILVER-v18.3-32.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
