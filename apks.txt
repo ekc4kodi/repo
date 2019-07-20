@@ -1,4 +1,4 @@
-name="EKC TV"
+name="EKC TV R"
 section="PREMIUM APKS"
 url="https://www.dropbox.com/s/uw8pd6uty4s5oxd/EKC%20TV.apk?dl=1"
 icon="http://" 
