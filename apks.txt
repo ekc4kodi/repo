@@ -1,6 +1,6 @@
 name="EKC TV SMART PLAYER (MULTI PLAY/RECORDING PRESENT MEDIA)"
 section="PREMIUM APKS"
-url="https://www.dropbox.com/s/a024ibig926elgt/EKC-TV-Multi-Smart.apk?dl=1"
+url="https://www.dropbox.com/s/4kqkettf78eoa2w/EKC-TV-Multi-Smart.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
@@ -33,7 +33,6 @@ description="OUR KODI FORK"
 
 
 \
-
 
 
 
