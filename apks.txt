@@ -8,7 +8,7 @@ description="GREAT PAID IPTV SERVICE."
 
 name="EKC TV R (RECORDING FUTURE MEDIA)"
 section="PREMIUM APKS"
-url="https://www.dropbox.com/s/bdo27numyp3wab0/EKC%20TV.apk?dl=1"
+url="https://www.dropbox.com/s/zux9ywjb3zlxker/EKC%20TV.apk?dl=1"
 icon="http://" 
 fanart="http://"
 adult="No"
